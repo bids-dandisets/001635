@@ -39,7 +39,7 @@ assetsSummary:
   - BehavioralTimeSeries
 citation: Panzeri, Matteo; Wahl, Anna-Sophia (2025) Contralesional activity reflects
   compensation, while brainstem detour pathways support skilled motor recovery after
-  stroke (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001635/draft
+  stroke (Version 0.251111.1144) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001635/0.251111.1144
 contributor:
 - affiliation:
   - identifier: https://ror.org/02crff812
@@ -75,8 +75,9 @@ dateCreated: '2025-11-11T10:45:37.218984+00:00'
 datePublished: '2025-11-11T11:44:44.947761+00:00'
 description: "Data for the publication \"Contralesional activity reflects compensation,
   while brainstem detour pathways support skilled motor recovery after stroke\"\n"
+doi: 10.48324/dandi.001635/0.251111.1144
 ethicsApproval: []
-id: DANDI:001635/draft
+id: DANDI:001635/0.251111.1144
 identifier: DANDI:001635
 keywords:
 - widefield calcium imaging
@@ -87,7 +88,7 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001635/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001635/0.251111.1144/assets.yaml
 name: Contralesional activity reflects compensation, while brainstem detour pathways
   support skilled motor recovery after stroke
 publishedBy:
@@ -106,6 +107,6 @@ relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.10
-url: https://dandiarchive.org/dandiset/001635/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001635/0.251111.1144
+version: 0.251111.1144
 wasGeneratedBy: []
